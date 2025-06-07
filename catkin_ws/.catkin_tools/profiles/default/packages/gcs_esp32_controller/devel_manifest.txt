@@ -1,0 +1,5 @@
+gcs_esp32_controller
+/home/ubuntu/catkin_ws/devel/.private/gcs_esp32_controller/cmake.lock /home/ubuntu/catkin_ws/devel/./cmake.lock
+/home/ubuntu/catkin_ws/devel/.private/gcs_esp32_controller/share/gcs_esp32_controller/cmake/gcs_esp32_controllerConfig-version.cmake /home/ubuntu/catkin_ws/devel/share/gcs_esp32_controller/cmake/gcs_esp32_controllerConfig-version.cmake
+/home/ubuntu/catkin_ws/devel/.private/gcs_esp32_controller/share/gcs_esp32_controller/cmake/gcs_esp32_controllerConfig.cmake /home/ubuntu/catkin_ws/devel/share/gcs_esp32_controller/cmake/gcs_esp32_controllerConfig.cmake
+/home/ubuntu/catkin_ws/devel/.private/gcs_esp32_controller/lib/pkgconfig/gcs_esp32_controller.pc /home/ubuntu/catkin_ws/devel/lib/pkgconfig/gcs_esp32_controller.pc

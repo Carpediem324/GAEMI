@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="gcs_esp32_controller" type="esp32_to_cmd_vel.py" name="gcs_esp32_node" output="screen">
+        <param name="serial_port" value="/dev/serial/by-id/usb-Espressif_USB_JTAG_serial_debug_unit_EC:DA:3B:51:98:C0-if00"/>
+        <param name="baud_rate" value="115200"/>
+        <param name="max_linear_speed" value="0.08"/> <param name="max_angular_speed" value="0.25"/> </node>
+</launch>

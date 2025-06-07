@@ -1,0 +1,13 @@
+/build
+/devel
+/log
+build/
+devel/
+log/
+.vscode
+venv/
+/venv
+.env
+
+*.pem
+

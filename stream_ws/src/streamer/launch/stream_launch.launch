@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="streamer" type="ros1yolortmp.py" name="yolo_rtmp_streamer"/>
+  <node pkg="streamer" type="ros1yolortmpir.py" name="yolo_IR_rtmp_streamer"/>
+</launch>
+

@@ -1,0 +1,34 @@
+<launch>
+    <!-- hello.py 노드 실행 -->
+    <node
+        pkg="gcs_esp32_controller"
+        type="hello.py"
+        name="hello_server"
+        output="screen"
+    />
+
+    <!-- tilting.py 노드 실행 -->
+    <node
+        pkg="gcs_esp32_controller"
+        type="tilting.py"
+        name="tilting_server"
+        output="screen"
+    />
+
+    <!-- height_control.py 노드 실행 -->
+    <node
+        pkg="gcs_esp32_controller"
+        type="height_control.py"
+        name="height_control_server"
+        output="screen"
+    />
+
+    <!-- reset_pose.py 노드 실행 -->
+    <node
+        pkg="gcs_esp32_controller"
+        type="reset_pose.py"
+        name="reset_pose_server"
+        output="screen"
+    />
+</launch>
+
